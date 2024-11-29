@@ -1,0 +1,22 @@
+{
+  "BookShelf": [
+    {
+      "title": "Java Basics",
+      "publishedYear": 2015,
+      "numberOfPages": 320,
+      "authors": ["John Doe", "Jane Smith"]
+    },
+    {
+      "title": "Advanced Java",
+      "publishedYear": 2018,
+      "numberOfPages": 400,
+      "authors": ["Chris Lee"]
+    },
+    {
+      "title": "Data Structures",
+      "publishedYear": 2020,
+      "numberOfPages": 500,
+      "authors": ["Alice Johnson", "Bob Brown"]
+    }
+  ]
+}

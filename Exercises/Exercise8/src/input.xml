@@ -1,0 +1,28 @@
+<BookShelf>
+    <Book>
+        <title>Java Basics</title>
+        <publishedYear>2015</publishedYear>
+        <numberOfPages>320</numberOfPages>
+        <authors>
+            <author>John Doe</author>
+            <author>Jane Smith</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Advanced Java</title>
+        <publishedYear>2018</publishedYear>
+        <numberOfPages>400</numberOfPages>
+        <authors>
+            <author>Chris Lee</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Data Structures</title>
+        <publishedYear>2020</publishedYear>
+        <numberOfPages>500</numberOfPages>
+        <authors>
+            <author>Alice Johnson</author>
+            <author>Bob Brown</author>
+        </authors>
+    </Book>
+</BookShelf>
